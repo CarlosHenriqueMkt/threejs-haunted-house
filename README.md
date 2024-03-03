@@ -1,4 +1,4 @@
-# Projeto: Casa Assombrada em Three.js com JavaScript Vanilla
+# Projeto: Casa Assombrada | Three.js — JavaScript Vanilla
 
 ## Visão Geral
 
