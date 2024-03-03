@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abandoned Gothic House
+* source:	https://sketchfab.com/3d-models/abandoned-gothic-house-9cf92b2776064207b41055d9fecc9c36
+* author:	Thomas Andris (https://sketchfab.com/thomas005)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abandoned Gothic House" (https://sketchfab.com/3d-models/abandoned-gothic-house-9cf92b2776064207b41055d9fecc9c36) by Thomas Andris (https://sketchfab.com/thomas005) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
